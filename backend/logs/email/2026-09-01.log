@@ -1,0 +1,108 @@
+============================================================
+TIME=2026-09-01 17:17:54.526625
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=9
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training 2
+STATUS=SUCCESS
+MESSAGE_ID=<178826327384.23240.11180078237446013037@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:55.081537
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=9
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training 2
+STATUS=SUCCESS
+MESSAGE_ID=<178826327471.23240.10962876348762129902@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:55.572159
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=9
+USER_ID=8
+TO=training.test@yourcompany.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training 2
+STATUS=SUCCESS
+MESSAGE_ID=<178826327524.23240.18411327188022693753@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:56.042106
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=9
+USER_ID=9
+TO=admin@pipelineinfra.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training 2
+STATUS=SUCCESS
+MESSAGE_ID=<178826327572.23240.4652172191953911754@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:56.840800
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=8
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training
+STATUS=SUCCESS
+MESSAGE_ID=<178826327644.23240.8853712038487600987@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:57.293377
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=8
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training
+STATUS=SUCCESS
+MESSAGE_ID=<178826327698.23240.11456894458453668532@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:57.800666
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=8
+USER_ID=8
+TO=training.test@yourcompany.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training
+STATUS=SUCCESS
+MESSAGE_ID=<178826327744.23240.15733430594041369@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 17:17:58.262011
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=8
+USER_ID=9
+TO=admin@pipelineinfra.com
+CC=admin@pipelineinfra.com
+SUBJECT=New Training Available - Test Training
+STATUS=SUCCESS
+MESSAGE_ID=<178826327794.23240.6893186266482694615@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-09-01 18:12:44.729450
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=8
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=admin@pipelineinfra.com
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178826656429.23424.9111616546223422287@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================

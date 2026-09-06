@@ -1,0 +1,72 @@
+============================================================
+TIME=2026-08-31 15:35:19.738775
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=7
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics Updated
+STATUS=SUCCESS
+MESSAGE_ID=<178817071935.15852.11442004339345848322@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-31 15:35:20.113986
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=7
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics Updated
+STATUS=SUCCESS
+MESSAGE_ID=<178817071985.15852.5275510879445139228@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-31 15:35:20.498674
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=7
+USER_ID=8
+TO=training.test@yourcompany.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics Updated
+STATUS=SUCCESS
+MESSAGE_ID=<178817072026.15852.1311822644298178593@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-31 15:35:20.974955
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=7
+USER_ID=9
+TO=admin@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics Updated
+STATUS=SUCCESS
+MESSAGE_ID=<178817072068.15852.16701890452684380217@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-31 15:41:36.234504
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=3
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178817109598.15852.16378877025474130132@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-31 15:54:07.778879
+EMAIL_TYPE=ASSESSMENT_RESULT
+TRAINING_ID=7
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=
+SUBJECT=Assessment Result - Python Basics Updated
+STATUS=SUCCESS
+MESSAGE_ID=<178817184750.15852.10052421738165414716@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================

@@ -1,0 +1,144 @@
+============================================================
+TIME=2026-08-28 13:46:19.914521
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=3
+USER_ID=2
+TO=aniket.supekar@kosqu.com
+CC=prathmesh.ahire@kosqu.com
+SUBJECT=New Training Available - SQL Server Advanced Training
+STATUS=FAILED
+MESSAGE_ID=<178790497954.12796.13351104994928233410@LT0030682.pipelineinfra.com>
+FAILURE_REASON=[Errno 11001] getaddrinfo failed
+============================================================
+============================================================
+TIME=2026-08-28 13:49:26.497105
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=3
+USER_ID=2
+TO=aniket.supekar@kosqu.com
+CC=prathmesh.ahire@kosqu.com
+SUBJECT=New Training Available - SQL Server Advanced Training
+STATUS=SUCCESS
+MESSAGE_ID=<178790516617.21312.18308201868099450226@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 15:12:14.089321
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=4
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Training Portal Email Test
+STATUS=SUCCESS
+MESSAGE_ID=<178791013368.20276.11861106441735017077@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 15:12:14.547187
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=4
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Training Portal Email Test
+STATUS=SUCCESS
+MESSAGE_ID=<178791013421.20276.4402052725910730821@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 15:57:12.437990
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=4
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178791283208.25780.12905080003258068@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 16:31:26.195466
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=4
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178791488588.1940.11784387886664396687@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 16:52:35.533074
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=5
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics
+STATUS=SUCCESS
+MESSAGE_ID=<178791615510.11880.12033484851378494155@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 16:52:35.870242
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=5
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Basics
+STATUS=SUCCESS
+MESSAGE_ID=<178791615564.11880.14099356960452326493@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 16:55:27.704093
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=3
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178791632732.11880.2388568040568829082@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 17:09:21.568502
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=6
+USER_ID=2
+TO=testuser001@pipelineinfra.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Advanced
+STATUS=SUCCESS
+MESSAGE_ID=<178791716125.26368.7724795197379499932@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 17:09:21.808690
+EMAIL_TYPE=TRAINING_PUBLISHED
+TRAINING_ID=6
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=New Training Available - Python Advanced
+STATUS=SUCCESS
+MESSAGE_ID=<178791716164.26368.1446356648753714340@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
+============================================================
+TIME=2026-08-28 17:12:10.937034
+EMAIL_TYPE=REGISTRATION_CONFIRMATION
+TRAINING_ID=5
+USER_ID=3
+TO=aniket.supekar@kosqu.com
+CC=testuser001@pipelineinfra.com
+SUBJECT=Training Registration Successful
+STATUS=SUCCESS
+MESSAGE_ID=<178791733072.26368.3191080780848422435@LT0030682.pipelineinfra.com>
+FAILURE_REASON=
+============================================================
